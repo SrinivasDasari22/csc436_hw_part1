@@ -1,0 +1,22 @@
+body {
+    /* Linear Gradient Background */
+    background: linear-gradient(to bottom, lightyellow, green) ; background-attachment: fixed;
+    /* You can adjust the colors and direction as needed */
+
+    /* Optional: Set text color to contrast with the gradient */
+    /* color: white; */
+
+    /* background-image: url("pic2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-position: center;
+    background-size: cover; */
+}
+
+img{
+    float: left;
+}
+
+/* a:visited {
+    color:tomato
+} */
